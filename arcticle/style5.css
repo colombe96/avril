@@ -1,0 +1,30 @@
+body{
+    background: #777;
+}
+h2{
+    text-align: center;
+}
+
+div.gallery {
+    border: 1px solid rgb(27, 121, 230);
+  }
+  
+  div.gallery:hover {
+    border: 1px solid brown;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+  
+  .responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24%;
+  }

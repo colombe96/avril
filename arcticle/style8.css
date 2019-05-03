@@ -1,0 +1,10 @@
+body
+{
+    background: gray; 
+}
+h1
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+    height: 50px;
+}
